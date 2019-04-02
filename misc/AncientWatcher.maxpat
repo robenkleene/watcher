@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 144.0, 93.0, 819.0, 658.0 ],
+		"rect" : [ 144.0, 93.0, 633.0, 222.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 10.0,
@@ -80,6 +80,7 @@
 					"patching_rect" : [ 15.0, 200.0, 569.0, 176.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 0.0, 0.0, 568.0, 168.0 ],
+					"varname" : "Analyzer",
 					"viewvisibility" : 1
 				}
 
@@ -107,6 +108,14 @@
 
 			}
  ],
+		"parameters" : 		{
+			"obj-1::obj-9" : [ "Stored_Tab", "Stored_Tab", 0 ],
+			"parameterbanks" : 			{
+
+			}
+
+		}
+,
 		"dependency_cache" : [ 			{
 				"name" : "Analyzer.maxpat",
 				"bootpath" : "/Users/Shared/Max 8/Packages/ancient-watcher/patchers",
