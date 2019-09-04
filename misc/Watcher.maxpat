@@ -118,14 +118,14 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "Analyzer.maxpat",
-				"bootpath" : "/Users/Shared/Max 8/Packages/ancient-watcher/patchers",
+				"bootpath" : "/Users/Shared/Max 8/Packages/watcher/patchers",
 				"patcherrelativepath" : "../patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "Analyzer View.maxpat",
-				"bootpath" : "/Users/Shared/Max 8/Packages/ancient-watcher/patchers",
+				"bootpath" : "/Users/Shared/Max 8/Packages/watcher/patchers",
 				"patcherrelativepath" : "../patchers",
 				"type" : "JSON",
 				"implicit" : 1
